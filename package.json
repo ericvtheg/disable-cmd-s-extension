@@ -4,7 +4,8 @@
   "description": "Prevent habitual cmd s pressing that causes an annoying pop up on every site.",
   "main": "scripts/content.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "zip -r extension.zip ."
   },
   "keywords": [
     "extension",
