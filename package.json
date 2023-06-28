@@ -1,0 +1,18 @@
+{
+  "name": "disable-cmd-s-extension",
+  "version": "1.0.0",
+  "description": "Prevent habitual cmd s pressing that causes an annoying pop up on every site.",
+  "main": "scripts/content.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "extension",
+    "save",
+    "disable",
+    "shortcut",
+    "hotkey"
+  ],
+  "author": "Eric Ventor",
+  "license": "MIT"
+}
